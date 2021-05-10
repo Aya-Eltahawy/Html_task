@@ -1,0 +1,32 @@
+body
+{
+    background-image: url(background.jpeg);
+}
+.aya
+{
+    
+    border-color: white;
+    color: black;
+    font-size: 30px;
+    border-width: 40px;
+    background-color: white;
+    border-style: double;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: -3px;
+    
+}
+.alaa
+{
+    border-color: gainsboro;
+    background-color: gainsboro;
+    color: black;
+    border-width: medium;
+    border-style: none;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: -20px;
+    
+
+}
